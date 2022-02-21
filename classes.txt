@@ -1,0 +1,3 @@
+ball
+ team_green
+ team_blue
